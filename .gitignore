@@ -1,0 +1,15 @@
+# Ignorar el directorio package
+package/
+
+# Ignorar el directorio node_modules
+node_modules/
+
+# Ignorar el directorio dist
+dist/
+
+# Ignorar archivos específicos
+*.log
+.DS_Store
+
+# Ignorar directorios ocultos
+.*
